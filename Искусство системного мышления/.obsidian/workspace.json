@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1bb447d50ebf7bf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jldskj.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Что такое система?.md",
+                "file": "jldskj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Что такое система?.md",
+                "file": "jldskj.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Что такое система?.md"
+                "file": "jldskj.md"
               }
             }
           }
@@ -155,10 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13ed192c5f0c4d66",
+  "active": "38c49a2691721131",
   "lastOpenFiles": [
-    "JHBJ.md",
     "Что такое система?.md",
+    "jldskj.md",
+    "Untitled",
+    "JHBJ.md",
     "Часть 1"
   ]
 }
