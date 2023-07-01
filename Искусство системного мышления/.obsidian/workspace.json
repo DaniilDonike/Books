@@ -19,8 +19,12 @@
             "id": "13ed192c5f0c4d66",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Что такое система?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Что такое система?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Что такое система?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Что такое система?.md"
+              }
             }
           }
         ]
@@ -149,8 +157,8 @@
   },
   "active": "13ed192c5f0c4d66",
   "lastOpenFiles": [
-    "Что такое система?.md",
     "JHBJ.md",
+    "Что такое система?.md",
     "Часть 1"
   ]
 }
