@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Атрибуты и методы.md",
+                "file": "Строки.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1b0f58c1a4451538",
+            "id": "197d653bc6007275",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Атрибуты и методы.md",
+                "file": "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Числовые типы.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Атрибуты и методы.md",
+                "file": "Строки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Атрибуты и методы.md",
+                "file": "Строки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Атрибуты и методы.md"
+                "file": "Строки.md"
               }
             }
           }
@@ -147,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,17 +159,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b0f58c1a4451538",
+  "active": "432f4064d2439287",
   "lastOpenFiles": [
-    "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Переменные и передача аргументов.md",
+    "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Числовые типы.md",
+    "Untitled 6.md",
+    "Untitled 10.md",
+    "Untitled 9.md",
+    "Untitled 8.md",
+    "Untitled 7.md",
+    "Untitled 5.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Строки.md",
+    "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Скалярные типы.md",
+    "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/2.1. Интерпретатор Python.md",
+    "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Изменяемые и неизменяемые объекты.md",
+    "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Бинарные операторы и операции сравнения.md",
+    "Untitled 4.md",
+    "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Импорт.md",
     "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Атрибуты и методы.md",
+    "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Переменные и передача аргументов.md",
     "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Динамические ссылки, строгие типы.md",
     "pics/Pasted image 20230708101404.png",
     "pics",
     "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/2.2. Основы IPython.md",
     "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Вызов функции и метода объекта.md",
     "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Комментарии.md",
-    "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/2.1. Интерпретатор Python.md",
     "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/Untitled",
     "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/2.2 Основы",
     "Глава 2 Основы языка Python, IPythonи Jupyter-блокноты/2.2 Основы IPython",
